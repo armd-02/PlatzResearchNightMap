@@ -6,7 +6,8 @@
                 "name",
                 "operator"
             ]
-        },
+        }
+        /*
         "arts": {
             "overpass": [
                 "node[\"tourism\"=\"artwork\"]",
@@ -703,5 +704,6 @@
                 "name"
             ]
         }
+            */
     }
 }

@@ -42,7 +42,7 @@
     }, // 選択リストの内容を手動記載 / 空の時は [] とする
     "listTable": {
         "category": "tags", // カテゴリ選択 / activity:アクティビティリスト / tags:タグ
-        "target": "activity", // target名:overpass名を表示 / activity:google sheetsを表示 / tags:osm poi種別名を表示
+        "target": "tags", // target名:overpass名を表示 / activity:google sheetsを表示 / tags:osm poi種別名を表示
         "allActs": true, // true: 全てのactivityを常に表示 / false: 画面内のActivityのみ表示
         "playback": {
             "view": false,

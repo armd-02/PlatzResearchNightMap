@@ -9,28 +9,24 @@
                 },
                 {
                     "id": "category",
-                    "hidden": true
+                    "name": "店種",
+                    "width": "40%"
                 },
                 {
-                    "id": "title",
-                    "name": "タイトル",
-                    "width": "50%"
-                },
-                {
-                    "id": "event",
-                    "name": "イベント",
-                    "width": "50%"
+                    "id": "name",
+                    "name": "店名",
+                    "width": "60%"
                 }
             ],
             "poi_fields": [
                 "id",
-                "#name"
+                "#category",
+                "name"
             ],
             "act_fields": [
                 "id",
                 "category",
-                "title",
-                "event"
+                "title"
             ]
         }
     }
