@@ -1,0 +1,90 @@
+{
+	"site_title": {
+		"ja": "三宮Platzがおすすめする夜遊びマップ",
+		"en": "Nightlife map recommended by Sannomiya Platz"
+	},
+	"site_subtitle": {
+		"ja": "",
+		"en": ""
+	},
+	"about": {
+		"ja": "三宮Platzがおすすめする夜遊びマップについて",
+		"en": "about Nightlife map"
+	},
+	"about_message": {
+		"ja": "",
+		"en": ""
+	},
+	"owner": {
+		"ja": "開発サイト",
+		"en": "development site"
+	},
+	"licence_title": {
+		"ja": "利用規約",
+		"en": "Terms of Use"
+	},
+	"licence_message": {
+		"ja": "OpenStreetMap Contributors",
+		"en": "OpenStreetMap Contributors"
+	},
+	"more_message": {
+		"ja": "",
+		"en": ""
+	},
+	"actdate": {
+		"ja": "確認日",
+		"en": "Disaster Date"
+	},
+	"ds_subject": {
+		"ja": "作業名",
+		"en": "Subject"
+	},
+	"ds_detail_url": {
+		"ja": "詳細URL",
+		"en": "Detail URL"
+	},
+	"act_grade": {
+		"ja": "学年",
+		"en": "Grade"
+	},
+	"act_title": {
+		"ja": "題名",
+		"en": "Subject"
+	},
+	"act_attention": {
+		"ja": "写真URLにWikimedia Commonsを指定する時は、タイトルを入力してください(例 File:遊具名.jpg)",
+		"en": "When specifying Wikimedia Commons for the photo URL, enter the title (e.g. File: Play equipment name.jpg)"
+	},
+	"act_memo": {
+		"ja": "説明",
+		"en": "Detail"
+	},
+	"act_official_url": {
+		"ja": "公式サイトURL",
+		"en": "Public Site URL"
+	},
+	"act_recommend_url": {
+		"ja": "オススメURL",
+		"en": "Recommend URL"
+	},
+	"act_picture_url1": {
+		"ja": "写真URL1",
+		"en": "Picture URL1"
+	},
+	"act_picture_url2": {
+		"ja": "写真URL2",
+		"en": "Picture URL2"
+	},
+	"act_picture_url3": {
+		"ja": "写真URL3",
+		"en": "Picture URL3"
+	},
+	"act_picture_url4": {
+		"ja": "写真URL4",
+		"en": "Picture URL3"
+	},
+	"act_picture_url5": {
+		"ja": "写真URL5",
+		"en": "Picture URL3"
+	}
+}

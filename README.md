@@ -1,1 +1,3 @@
-# SannomiyaPlatzRecoMap
+# 三宮Platz 夜遊びおすすめマップ
+* 2024/08/24 初版公開
+* 

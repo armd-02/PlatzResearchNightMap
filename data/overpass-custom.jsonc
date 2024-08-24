@@ -1,0 +1,34 @@
+{
+    "osm": {
+        "stores": {
+            "overpass": [
+                "nwr[\"amenity\"]",
+                "nwr[\"shop\"]",
+                "nwr[\"leisure\"]"
+            ],
+            "tags": [
+                "amenity=bar",
+                "amenity=casino",
+                "amenity=pub",
+                "amenity=biergarten",
+                "amenity=nightclub",
+                "alcohol=yes",
+                "shop=alcohol",
+                "shop=wine",
+                "leisure=adult_gaming_centre",
+                "leisure=amusement_arcade",
+                "leisure=bandstand",
+                "leisure=dance"
+
+            ],
+            "expression": {
+                "stroke": "#c0c0c0",
+                "stroke-width": 1
+            },
+            "titles": [
+                "name",
+                "operator"
+            ]
+        }
+    }
+}
