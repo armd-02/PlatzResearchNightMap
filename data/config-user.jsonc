@@ -25,7 +25,7 @@
     "view": {
         "poiZoom": {
             // アイコンの前後位置は後ろの方が手前になる
-            "SannomiyaPLatz": 14,
+            "PLatz": 14,
             "stores": 15,
             "activity": 7
         },

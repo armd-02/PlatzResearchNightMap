@@ -12,13 +12,15 @@
                 "amenity=pub",
                 "amenity=biergarten",
                 "amenity=nightclub",
+                "amenity=karaoke_box",
                 "alcohol=yes",
                 "shop=alcohol",
                 "shop=wine",
                 "leisure=adult_gaming_centre",
                 "leisure=amusement_arcade",
                 "leisure=bandstand",
-                "leisure=dance"
+                "leisure=dance",
+                "leisure=bowling_alley"
             ],
             "expression": {
                 "stroke": "#c0c0c0",
