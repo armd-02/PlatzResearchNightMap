@@ -45,7 +45,7 @@ class modal_Activities {
                         case "quiz_choice":
                             if (key !== "quiz_answer" && key !== "title" && gdata !== "") {
                                 gdata = basic.autoLink(gdata)
-                                chtml += `<div class='col-12'><span class="font-weight-bold">${glot.get(form[key].glot)}</span>${gdata.replace(/\r?\n/g, '<br>')}</div>`;
+                                chtml += `<div class='col-12'><span class="font-weight-bold mr-1">${glot.get(form[key].glot)}</span>${gdata.replace(/\r?\n/g, '<br>')}</div>`;
                             }
                             break
                         case "quiz_textarea":
@@ -53,7 +53,7 @@ class modal_Activities {
                             break;
                         case "url":
                             if (gdata !== "http://" && gdata !== "https://" && gdata !== "") {
-                                chtml += `<div class='col-12'><span class="font-weight-bold">${glot.get(form[key].glot)}</span><a href="${gdata}">${gdata}</a></div>`;
+                                chtml += `<div class='col-12'><span class="font-weight-bold mr-1">${glot.get(form[key].glot)}</span><a href="${gdata}">${gdata}</a></div>`;
                             }
                             break
                         case "image_url":
