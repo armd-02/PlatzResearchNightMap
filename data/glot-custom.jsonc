@@ -56,8 +56,8 @@
 		"en": "When specifying Wikimedia Commons for the photo URL, enter the title (e.g. File: Play equipment name.jpg)"
 	},
 	"act_memo": {
-		"ja": "説明",
-		"en": "Detail"
+		"ja": "推し詳細",
+		"en": "Oshi Detail"
 	},
 	"act_official_url": {
 		"ja": "公式サイトURL",
